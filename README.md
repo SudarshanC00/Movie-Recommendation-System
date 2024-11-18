@@ -21,7 +21,7 @@ This project is a content-based movie recommendation system built using Python a
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SudarshanC00/movie-recommender-system.git
+   git clone https://github.com/SudarshanC00/Movie-Recommendation-System.git
    ```
 2. Navigate to the project directory:
    ```bash
