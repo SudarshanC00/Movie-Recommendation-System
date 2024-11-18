@@ -37,7 +37,6 @@ This project is a content-based movie recommendation system built using Python a
    - Select a movie from the dropdown menu.
    - Click **Show Recommendation** to see the top 5 recommended movies.
 
-3. (Optional) Uncomment the `st.image()` lines in `app.py` to display posters of recommended movies.
 
 ## Dependencies
 - **Python**: Ensure you have Python 3.7 or above.
